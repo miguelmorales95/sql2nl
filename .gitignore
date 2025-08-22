@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+artifacts/
+.cache/
+.checkpoints/
+.DS_Store
