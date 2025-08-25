@@ -1,6 +1,6 @@
 # SQL → Natural Language Translator (Redshift-focused)
 
-A tiny, portfolio-ready project that turns **Amazon Redshift SQL** into plain-English explanations.
+Turns **Amazon Redshift SQL** into plain-English explanations.
 
 It includes two inference modes:
 1. **Heuristic Baseline (no ML)** – quick, dependency-light, and works out-of-the-box.
