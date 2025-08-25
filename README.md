@@ -79,5 +79,3 @@ sql2nl_redshift/
 ## Notes
 - You can expand the dataset with your own SQL/NL pairs from your analytics work.
 - The baseline translator provides safe/consistent output even if the LLM isn't available.
-
-**License:** MIT
